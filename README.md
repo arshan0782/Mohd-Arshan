@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently a BCA student and learning MERN Stack Development<br>💬 Let’s talk about Web Development, React, Backend APIs & Databases<br>🧩 I love turning ideas into working applications<br>📫 Connect with me on LinkedIn  @Mohd Arshan<br>⚡ Fun fact: Coding is my comfort zone, and learning new tech is my daily habit 😄
+🔭 I’m currently a BCA student and learning MERN Stack Development<br>💬 Let’s talk about Web Development, React, Backend APIs & Databases<br>🧩 I love turning ideas into working applications<br>📫 Connect with me on LinkedIn  @Mohd Arshan and my web page https://mohdarshan782.netlify.app/<br>⚡ Fun fact: Coding is my comfort zone, and learning new tech is my daily habit 😄
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/iamarshan14) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/MohdArshan ) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:arshan0782@gmail.com) 
